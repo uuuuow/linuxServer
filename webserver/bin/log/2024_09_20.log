@@ -1,0 +1,109 @@
+2024-09-20 21:49:25.337195 [info] : ========== Server init ==========
+2024-09-20 21:49:25.337244 [info] : Port:1316, OpenLinger: false
+2024-09-20 21:49:25.337287 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-09-20 21:49:25.337301 [info] : LogSys level: 1
+2024-09-20 21:49:25.337314 [info] : srcDir: /home/now/webserver/bin/resources/
+2024-09-20 21:49:25.337326 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-09-20 21:49:25.337339 [info] : ========== Server start ==========
+2024-09-20 21:49:27.888683 [info] : Client[18](192.168.19.1:51172) in, userCount:1
+2024-09-20 21:49:27.889567 [info] : Client[18] in!
+2024-09-20 21:49:27.894224 [info] : Client[19](192.168.19.1:51428) in, userCount:2
+2024-09-20 21:49:27.894451 [info] : Client[19] in!
+2024-09-20 21:50:27.931654 [info] : Client[19] quit!
+2024-09-20 21:50:27.931995 [info] : Client[19](192.168.19.1:51428) quit, UserCount:1
+2024-09-20 21:50:50.223661 [info] : Client[18] quit!
+2024-09-20 21:50:50.224128 [info] : Client[18](192.168.19.1:51172) quit, UserCount:0
+2024-09-20 21:51:17.609075 [info] : Client[18](192.168.19.1:28645) in, userCount:1
+2024-09-20 21:51:17.609340 [info] : Client[18] in!
+2024-09-20 21:52:20.529595 [info] : ========== Server init ==========
+2024-09-20 21:52:20.529615 [info] : Port:1316, OpenLinger: false
+2024-09-20 21:52:20.529628 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-09-20 21:52:20.529641 [info] : LogSys level: 1
+2024-09-20 21:52:20.529654 [info] : srcDir: /home/now/webserver/bin/resources/
+2024-09-20 21:52:20.529667 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-09-20 21:52:20.529681 [info] : ========== Server start ==========
+2024-09-20 21:52:22.363033 [info] : Client[18](192.168.19.1:47845) in, userCount:1
+2024-09-20 21:52:22.363299 [info] : Client[18] in!
+2024-09-20 21:56:38.983380 [info] : ========== Server init ==========
+2024-09-20 21:56:38.983410 [info] : Port:1316, OpenLinger: false
+2024-09-20 21:56:38.983422 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-09-20 21:56:38.983626 [info] : LogSys level: 1
+2024-09-20 21:56:38.983643 [info] : srcDir: /home/now/webserver/bin/resources/
+2024-09-20 21:56:38.983656 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-09-20 21:56:38.983668 [info] : ========== Server start ==========
+2024-09-20 21:56:40.158174 [info] : Client[18](192.168.19.1:45542) in, userCount:1
+2024-09-20 21:56:40.158582 [info] : Client[18] in!
+2024-09-20 21:56:40.168511 [info] : Client[19](192.168.19.1:45798) in, userCount:2
+2024-09-20 21:56:40.168728 [info] : Client[19] in!
+2024-09-20 21:57:40.198522 [info] : Client[19] quit!
+2024-09-20 21:57:40.198825 [info] : Client[19](192.168.19.1:45798) quit, UserCount:1
+2024-09-20 21:58:09.637705 [info] : Client[18] quit!
+2024-09-20 22:00:24.569617 [info] : ========== Server init ==========
+2024-09-20 22:00:24.569655 [info] : Port:1316, OpenLinger: false
+2024-09-20 22:00:24.569668 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-09-20 22:00:24.569680 [info] : LogSys level: 1
+2024-09-20 22:00:24.569811 [info] : srcDir: /home/now/webserver/bin/resources/
+2024-09-20 22:00:24.569824 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-09-20 22:00:24.569837 [info] : ========== Server start ==========
+2024-09-20 22:00:27.028401 [info] : Client[18](192.168.19.1:5352) in, userCount:1
+2024-09-20 22:00:27.028655 [info] : Client[18] in!
+2024-09-20 22:00:27.034173 [info] : Client[19](192.168.19.1:5608) in, userCount:2
+2024-09-20 22:00:27.034403 [info] : Client[19] in!
+2024-09-20 22:01:27.084604 [info] : Client[19] quit!
+2024-09-20 22:01:27.085188 [info] : Client[19](192.168.19.1:5608) quit, UserCount:1
+2024-09-20 22:01:29.457295 [info] : Client[18] quit!
+2024-09-20 22:01:29.458159 [info] : Client[18](192.168.19.1:5352) quit, UserCount:0
+2024-09-20 22:02:01.648711 [info] : Client[18](192.168.19.1:34280) in, userCount:1
+2024-09-20 22:02:01.649170 [info] : Client[18] in!
+2024-09-20 22:02:01.655781 [info] : Client[19](192.168.19.1:34536) in, userCount:2
+2024-09-20 22:02:01.656111 [info] : Client[19] in!
+2024-09-20 22:03:01.687820 [info] : Client[19] quit!
+2024-09-20 22:03:01.688507 [info] : Client[19](192.168.19.1:34536) quit, UserCount:1
+2024-09-20 22:03:11.910468 [info] : Client[18] quit!
+2024-09-20 22:09:34.862682 [info] : ========== Server init ==========
+2024-09-20 22:09:34.862720 [info] : Port:1316, OpenLinger: false
+2024-09-20 22:09:34.862733 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-09-20 22:09:34.862745 [info] : LogSys level: 1
+2024-09-20 22:09:34.862911 [info] : srcDir: /home/now/webserver/bin/resources/
+2024-09-20 22:09:34.862923 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-09-20 22:09:34.862936 [info] : ========== Server start ==========
+2024-09-20 22:09:37.644374 [info] : Client[18](192.168.19.1:18150) in, userCount:1
+2024-09-20 22:09:37.644651 [info] : Client[18] in!
+2024-09-20 22:09:37.654414 [info] : Client[19](192.168.19.1:18406) in, userCount:2
+2024-09-20 22:09:37.654664 [info] : Client[19] in!
+2024-09-20 22:10:37.688292 [info] : Client[18] quit!
+2024-09-20 22:10:37.688600 [info] : Client[18](192.168.19.1:18150) quit, UserCount:1
+2024-09-20 22:10:37.688630 [info] : Client[19] quit!
+2024-09-20 22:10:37.688712 [info] : Client[19](192.168.19.1:18406) quit, UserCount:0
+2024-09-20 22:15:16.490770 [info] : Client[18](192.168.19.1:45031) in, userCount:1
+2024-09-20 22:15:16.491472 [info] : Client[18] in!
+2024-09-20 22:15:16.494571 [info] : Client[19](192.168.19.1:45287) in, userCount:2
+2024-09-20 22:15:16.494779 [info] : Client[19] in!
+2024-09-20 22:16:16.552355 [info] : Client[19] quit!
+2024-09-20 22:16:16.552778 [info] : Client[19](192.168.19.1:45287) quit, UserCount:1
+2024-09-20 22:16:18.795531 [info] : Client[18] quit!
+2024-09-20 22:16:18.796011 [info] : Client[18](192.168.19.1:45031) quit, UserCount:0
+2024-09-20 22:23:51.526664 [info] : Client[18](192.168.19.1:10730) in, userCount:1
+2024-09-20 22:23:51.527062 [info] : Client[18] in!
+2024-09-20 22:23:51.527191 [info] : Client[19](192.168.19.1:10986) in, userCount:2
+2024-09-20 22:23:51.527282 [info] : Client[19] in!
+2024-09-20 22:23:56.295235 [info] : Client[19] quit!
+2024-09-20 22:23:56.295820 [info] : Client[19](192.168.19.1:10986) quit, UserCount:1
+2024-09-20 22:23:56.296149 [info] : Client[18] quit!
+2024-09-20 22:37:03.316390 [info] : ========== Server init ==========
+2024-09-20 22:37:03.316434 [info] : Port:1316, OpenLinger: false
+2024-09-20 22:37:03.316469 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-09-20 22:37:03.316503 [info] : LogSys level: 1
+2024-09-20 22:37:03.316537 [info] : srcDir: /home/now/webserver/bin/resources/
+2024-09-20 22:37:03.316572 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-09-20 22:37:03.316606 [info] : ========== Server start ==========
+2024-09-20 22:37:05.397832 [info] : Client[18](192.168.19.1:12283) in, userCount:1
+2024-09-20 22:37:05.399050 [info] : Client[18] in!
+2024-09-20 22:37:05.404125 [info] : Client[20](192.168.19.1:12539) in, userCount:2
+2024-09-20 22:37:05.404438 [info] : Client[20] in!
+2024-09-20 22:38:05.405391 [info] : Client[20] quit!
+2024-09-20 22:38:05.405736 [info] : Client[20](192.168.19.1:12539) quit, UserCount:1
+2024-09-20 22:39:03.999592 [info] : Client[18] quit!
+2024-09-20 22:39:03.999912 [info] : Client[18](192.168.19.1:12283) quit, UserCount:0
+2024-09-20 22:41:12.065521 [info] : Client[18](192.168.19.1:26364) in, userCount:1
+2024-09-20 22:41:12.065780 [info] : Client[18] in!

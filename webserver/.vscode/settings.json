@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "getopt.h": "c",
+        "signal.h": "c",
+        "param.h": "c",
+        "types.h": "c",
+        "signal-defs.h": "c",
+        "strings.h": "c",
+        "in.h": "c",
+        "inet.h": "c",
+        "netconfig.h": "c",
+        "*.tcc": "cpp",
+        "format": "cpp",
+        "ostream": "cpp",
+        "cassert": "cpp",
+        "atomic": "cpp",
+        "condition_variable": "cpp"
+    }
+}
